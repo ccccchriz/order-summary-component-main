@@ -16,5 +16,5 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [frontendmentor.io](https://your-solution-url.com)
-- Live Site URL: [netlify.app](https://your-live-site-url.com)
+- Solution URL: [frontendmentor.io](https://www.frontendmentor.io/solutions/order-summary-component-1E39TY_lxx)
+- Live Site URL: [netlify.app](https://fancy-cat-469ae7.netlify.app)
