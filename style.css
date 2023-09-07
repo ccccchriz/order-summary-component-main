@@ -93,7 +93,7 @@ main {
 }
 
 .card {
-  --margin: 1rem;
+  --margin: 3rem;
 
   overflow: hidden;
   background-color: white;
@@ -191,7 +191,7 @@ main {
 
 .button--cancel {
   padding-top: 0;
-  margin-bottom: var(--margin);
+  margin-bottom: calc(var(--margin) / 2);
   color: var(--clr-neutral-500);
 }
 
