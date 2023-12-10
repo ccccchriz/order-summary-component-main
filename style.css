@@ -215,6 +215,6 @@ main {
 
 @media (min-width: 37.5rem) {
   main {
-    background-image: url(images/pattern-background-desktop.svg);
+    background-image: url(assets/images/pattern-background-desktop.svg);
   }
 }
